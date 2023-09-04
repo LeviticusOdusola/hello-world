@@ -1,2 +1,1 @@
-# hello-world
-My New Project
+I am a certified Business Intelligence Data Analyst with 3+ proficient experience in Data Mining, Data Cleansing, Data Warehousing, and translating company data into knowledge, and developing BI and analytical solutions to help organization make better and more informed decisions. I have demonstrated in-depth knowledge in writing highly complex SQL queries, designing reports based on accurate Data Analysis and providing easily understood interactive dashboards and data visualizations using Tableau Desktop Server. I also have a great understanding of SDLC Methodologies such as Scrum and Waterfall.
